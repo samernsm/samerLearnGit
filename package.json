@@ -1,0 +1,19 @@
+{
+  "name": "samer_demo_npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samernsm/samerLearnGit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samernsm/samerLearnGit/issues"
+  },
+  "homepage": "https://github.com/samernsm/samerLearnGit#readme"
+}
